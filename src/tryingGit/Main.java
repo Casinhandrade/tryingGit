@@ -6,9 +6,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world");
 		
-		System.out.println("I hate amilcar");
+		System.out.println("I love amilcar");
 		
-		System.out.println("I hate amilcar");
+		System.out.println("I love amilcar");
 		
 	}
 
