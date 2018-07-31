@@ -8,7 +8,7 @@ public class Main {
 		
 		System.out.println("I love amilcar");
 		
-		System.out.println("I love amilcar");
+		System.out.println("hello from master branch");
 		
 	}
 
